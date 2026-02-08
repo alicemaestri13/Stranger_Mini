@@ -28,7 +28,7 @@ The project follows a structured Data Science pipeline divided into four main ph
 The project is organized as follows:
 
 ```text
-Stranger Things_sentiment_project/
+Stranger_Sentiment_mini/
 ├── api_key.py                  # API Key configuration (Not included in repo)
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
