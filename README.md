@@ -104,7 +104,7 @@ python create_validation_set.py
 
 ```
 
-NOTE: compared to the full model, this time, validation set will containt approx. 100 comments, due to the smaller volume of data.
+NOTE: compared to the full model, this validation set will containt approx. 100 comments, due to the smaller volume of data.
 
 This will create a file named `validation_set_to_label.csv` in the `validation/` folder.
 
