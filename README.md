@@ -4,7 +4,7 @@ A smaller version of our sentiment analysis for Stranger Things. Compared to the
 
 
 ## ⚙️ Methodology & Pipeline
-The project follows a structured Data Science pipeline divided into three main phases:
+The project follows a structured Data Science pipeline divided into four main phases:
 
 ### 1. Data Ingestion (ETL)
 **Source:** YouTube Data API v3.
